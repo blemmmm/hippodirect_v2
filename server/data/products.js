@@ -9,7 +9,7 @@ const client = new Typesense.Client({
       protocol: 'http', // For Typesense Cloud use https
     },
   ],
-  apiKey: 'xyz',
+  apiKey: '245e26664fae4764659f444f5e15b859da00b6ac44e112169f3e89c762ab45d5',
   connectionTimeoutSeconds: 2,
 });
 

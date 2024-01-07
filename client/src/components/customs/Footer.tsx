@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer className="mt-20">
-      <div className="bg-indigo-600 h-10 w-full inline-flex justify-center items-center">
+      <div className="bg-slate-900 h-10 w-full inline-flex justify-center items-center">
         <h1 className="text-white">
           HippoDirect, {new Date().getFullYear()}. Public Dataset by{' '}
           <a
