@@ -1,13 +1,6 @@
 import Footer from '@/components/customs/Footer';
 import IndexPagination from '@/components/customs/IndexPagination';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Icon } from '@iconify/react';
 import { useEffect, useState } from 'react';
